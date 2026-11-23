@@ -1,4 +1,6 @@
-[![make.fun](https://make.fun/badge/news-image-20261123/epul2/news-image)](https://make.fun/bounty/news-image-20261123) [![make.fun](https://make.fun/badge/epul2/news-image)](https://make.fun/u/epul2-2) [![make.fun](https://make.fun/badge/news-image-20261123)](https://make.fun/bounty/news-image-20261123)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/epul2/news-image/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/epul2/news-image/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 # The World in One Day — Monday 23 November 2026
 
